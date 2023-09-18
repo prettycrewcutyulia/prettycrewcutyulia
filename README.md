@@ -16,6 +16,6 @@
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prettycrewcutyulia&theme=graywhite" alt=""/>
-    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prettycrewcutyulia&theme=graywhite" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prettycrewcutyulia&theme=graywhite" alt=""> -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prettycrewcutyulia&theme=graywhite" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prettycrewcutyulia&theme=graywhite" alt="">
 </div>
